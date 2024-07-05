@@ -1,0 +1,1 @@
+<img src="{{ Vite::asset('resources/img/boolean-logo.png') }}" alt="boolean logo" class="w-50">

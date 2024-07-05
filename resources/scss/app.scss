@@ -1,1 +1,10 @@
 @import "~bootstrap/scss/bootstrap";
+header{
+    background-color: #FF6801;
+    ul{
+        list-style: none;
+        li{
+            display: inline-block;
+        }
+    }
+}
